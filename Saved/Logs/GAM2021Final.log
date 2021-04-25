@@ -5720,3 +5720,25 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.25-21.10.33:022][139]LogXGEController: Cleaning working directory: C:/Users/itznt/AppData/Local/Temp/UnrealXGEWorkingDir/
 [2021.04.25-21.10.33:022][139]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
 [2021.04.25-21.10.33:037][139]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2021.04.25-21.10.33:105][139]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2021.04.25-21.10.33:373][139]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.04.25-21.10.33:399][139]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.04.25-21.10.33:399][139]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.04.25-21.10.33:407][139]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.04.25-21.10.33:468][139]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.04.25-21.10.33:482][139]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.04.25-21.10.33:482][139]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.04.25-21.10.33:494][139]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.04.25-21.10.33:574][139]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.04.25-21.10.33:612][139]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.04.25-21.10.33:612][139]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.04.25-21.10.33:669][139]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.04.25-21.10.33:670][139]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.04.25-21.10.33:701][139]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.04.25-21.10.33:725][139]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.04.25-21.10.33:811][139]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.04.25-21.10.33:862][139]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.04.25-21.10.33:956][139]LogD3D11RHI: Shutdown
+[2021.04.25-21.10.33:956][139]LogD3D11RHI: CleanupD3DDevice
+[2021.04.25-21.10.35:212][139]LogExit: Exiting.
+[2021.04.25-21.10.35:241][139]Log file closed, 04/25/21 17:10:35
