@@ -5532,3 +5532,24 @@ Make sure 'EnemyAI_BP_C' has been compiled for  Set Health
 [2021.05.04-23.59.23:079][101]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
 [2021.05.04-23.59.23:093][101]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
 [2021.05.04-23.59.23:111][101]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2021.05.04-23.59.23:289][101]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.05.04-23.59.23:330][101]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.05.04-23.59.23:330][101]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.05.04-23.59.23:330][101]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.05.04-23.59.23:398][101]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.05.04-23.59.23:463][101]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.05.04-23.59.23:463][101]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.05.04-23.59.23:483][101]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.05.04-23.59.23:484][101]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.05.04-23.59.23:518][101]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.05.04-23.59.23:518][101]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.05.04-23.59.23:543][101]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.05.04-23.59.23:543][101]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.05.04-23.59.23:616][101]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.05.04-23.59.23:665][101]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.05.04-23.59.23:665][101]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.05.04-23.59.23:690][101]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.05.04-23.59.23:729][101]LogD3D11RHI: Shutdown
+[2021.05.04-23.59.23:729][101]LogD3D11RHI: CleanupD3DDevice
+[2021.05.04-23.59.24:185][101]LogExit: Exiting.
+[2021.05.04-23.59.24:213][101]Log file closed, 05/04/21 19:59:24
